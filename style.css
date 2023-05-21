@@ -1,0 +1,78 @@
+textarea{
+    width: 50%;
+    height: 20vh;
+    display: block;
+    margin-top: 1rem;
+    margin-left: 20rem;
+    margin-bottom: 1rem;
+    margin-right: 0rem ;
+    font-style: italic;
+    font-size: 1.3rem;
+    padding-left: 0.5rem;
+}
+
+#output{
+    border: 1px solid;
+    width: 50%;
+    height: 15vh;
+    margin-top: 1rem;
+    margin-left: 20rem;
+    overflow: scroll;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    font-style: italic;
+    font-size: 1.3rem;
+    font-weight: 700;
+    
+}
+h1{
+    text-align: center;
+    display: block;
+    font-style: italic;
+    font-size: 2rem;
+    font-weight: 400;
+    background-color: #f2c94c;
+    margin: 0rem 0rem 2rem 0rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#btn-translate{
+    margin-left: 20rem;
+    background-color: #f2c94c;
+    padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+    font-style: italic;
+    font-size: 1.2rem;
+    border-style: none;
+
+}
+.out_line{
+    margin-left: 20rem;
+    margin-top: 1rem;
+    font-size: large;
+    font-style: italic;
+    color: gray;
+}
+.footer{
+    background-color: #f2c94c;
+    margin-top: 2.5rem;
+    text-align: center;
+    display: block;
+    margin-left: 0rem;
+    margin-bottom: 0rem;
+    /* margin-bottom: 0rem; */
+    
+}
+#about{
+    padding-top: 1rem;
+    font-size: 1.5rem;
+    font-style: italic;
+    color: #333333;
+}
+#fact{
+    padding-bottom: 1rem;
+    padding-left: 25rem;
+    padding-right: 25rem;
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #333333;
+}
